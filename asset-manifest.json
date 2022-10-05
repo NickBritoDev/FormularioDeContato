@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormularioDeContato/static/css/main.8961a05c.css",
+    "main.js": "/FormularioDeContato/static/js/main.36cbc587.js",
+    "index.html": "/FormularioDeContato/index.html",
+    "main.8961a05c.css.map": "/FormularioDeContato/static/css/main.8961a05c.css.map",
+    "main.36cbc587.js.map": "/FormularioDeContato/static/js/main.36cbc587.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8961a05c.css",
+    "static/js/main.36cbc587.js"
+  ]
+}
